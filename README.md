@@ -26,5 +26,5 @@ _이탤릭체_
 * * * 
 
 
-<img width="" height="" src="./png/고양이.png"><img/>
+<img width="" height="" src="./png/새끼고양이.png"><img/>
 
