@@ -27,5 +27,5 @@ _이탤릭체_
 
 
 <img width="" height="" src="./png/새끼고양이.png"><img/>
-<img width="" height="" src="./png/4주차 과제."><img/>
+<img width="" height="" src="./png/4주차 과제.png"><img/>
 
